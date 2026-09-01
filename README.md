@@ -7,7 +7,7 @@ Sistema desenvolvido em Python para facilitar o controle de produtos, movimenta�
 ## Demo
 
 <div align="center">
-  <img src="Gravando 2026-09-01 095432.gif" alt="Demonstração do Sistema de Gerenciamento de Estoque" width="100%" />
+  <img src="docs/Gravando 2026-09-01 095432.gif" alt="Demonstração do Sistema de Gerenciamento de Estoque" width="100%" />
 </div>
 
 ---
